@@ -1,0 +1,25 @@
+p{
+    font-weight: bold;
+    font-size: 25px;
+    color: rgb(186, 89, 5);
+}
+
+#Top{
+    text-decoration: underline;
+}
+
+body{
+    background-color: rgb(137, 182, 241);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 25px solid blanchedalmond ;
+    margin: 20px;
+    padding: 20px;
+    text-align: center ;
+}
+
+ol{
+    list-style-position: inside;
+}
+ul{
+    list-style-position: inside;
+}
